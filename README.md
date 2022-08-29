@@ -1,2 +1,4 @@
 # kodluyoruzfrontend101
-kodluyoruz.org_bölüm_sonu_calismasi
+kodluyoruz.org ve patika.dev 
+kodluyoruzfrontend101-html_odev3
+
